@@ -37,7 +37,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello Laravel! - by Zmbcen</div>
+                <div class="title">SB,张翀祺</div>
             </div>
         </div>
     </body>
